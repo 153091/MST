@@ -1,3 +1,13 @@
+/** src\tinyEWG.txt
+ 0-7 0,16000
+ 2-3 0,17000
+ 1-7 0,19000
+ 0-2 0,26000
+ 5-7 0,28000
+ 4-5 0,35000
+ 6-2 0,40000
+ 1.81*/
+
 import edu.princeton.cs.algs4.In;
 import edu.princeton.cs.algs4.MinPQ;
 import edu.princeton.cs.algs4.StdOut;
